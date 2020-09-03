@@ -3,14 +3,14 @@
   --background-color: white;
   --text-color: #1f1f21;
   --sub-text-color: #999;
-  --highlight-color: #1a90ff;
+  --highlight-color: #003a70;
   --second-highlight-color: #f08552;
   --border-color: #ccc;
   --button-background-color: var(--highlight-color);
   --button-cta-background-color: var(--second-highlight-color);
   --toolbar-background-color: #fcf8f8;
   --toolbar-button-color: var(--highlight-color);
-  --toolbar-text-color: #1a90ff;
+  --toolbar-text-color: #003a70;
   --toolbar-border-color: #b2b2b2;
   --button-bar-color: var(--highlight-color);
   --button-bar-active-text-color: #fff;
