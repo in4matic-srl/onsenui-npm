@@ -4,8 +4,8 @@
   --background-color: white;
   --text-color: #1f1f21;
   --sub-text-color: #999;
-  --highlight-color: #007ba8;
-  --second-highlight-color:#165E7B;
+  --highlight-color: #165E7B;
+  --second-highlight-color:#007ba8;
   --border-color: #ccc;
   --button-background-color: var(--highlight-color);
   --button-cta-background-color: var(--second-highlight-color);
